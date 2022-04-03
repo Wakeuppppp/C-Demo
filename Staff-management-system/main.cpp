@@ -12,8 +12,8 @@ using namespace std;
 
 int mainStaff()
 {
-    cout << "hhh" << endl;
-    cout << "hhh" << endl;
-    cout << "hhh" << endl;
+    cout << "Test git" << endl;
+    cout << "Test git commit" << endl;
+    cout << "Test git push" << endl;
     return 0;
 }
