@@ -13,5 +13,7 @@ using namespace std;
 int mainStaff()
 {
     cout << "hhh" << endl;
+    cout << "hhh" << endl;
+    cout << "hhh" << endl;
     return 0;
 }
