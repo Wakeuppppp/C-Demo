@@ -3,4 +3,4 @@ project(SpeechContestSystem)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SpeechContestSystem main.cpp)
+add_executable(SpeechContestSystem main.cpp speechMgr.cpp speechMgr.h speaker.h)
