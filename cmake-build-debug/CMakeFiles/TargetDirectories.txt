@@ -1,3 +1,0 @@
-E:/C++ProjectsGit/C++Demo/cmake-build-debug/CMakeFiles/C__demos.dir
-E:/C++ProjectsGit/C++Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C++ProjectsGit/C++Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
