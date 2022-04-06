@@ -1,0 +1,3 @@
+E:/C++ProjectsGit/C-Demo/SpeechContestSystem/cmake-build-debug/CMakeFiles/SpeechContestSystem.dir
+E:/C++ProjectsGit/C-Demo/SpeechContestSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C++ProjectsGit/C-Demo/SpeechContestSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

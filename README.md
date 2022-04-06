@@ -1,2 +1,1 @@
-# Reservation-system
-C++
+## Clion + C++14
