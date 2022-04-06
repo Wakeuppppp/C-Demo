@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int main() {
+void start() {
     WorkerMgr wm;
     int choice = 0;
     while (true) {
@@ -17,21 +17,9 @@ int main() {
         switch (choice) {
             case 0:
                 cout << "欢迎下次使用" << endl;
-                return 0;
+                return;
             case 1: {
-                cout << "增加" << endl;
-                Worker *worker;
-                worker = new Employee(1, "Jack", 2);
-                worker->showInfo();
-                delete worker;
-
-                worker = new Manager(2, "Dany", 3);
-                worker->showInfo();
-                delete worker;
-
-                worker = new Boss(3, "Marine", 4);
-                worker->showInfo();
-                delete worker;
+                wm.add_Emp();
                 break;
             }
             case 2:
@@ -58,4 +46,10 @@ int main() {
                 break;
         }
     }
+}
+
+int main() {
+    start();
+
+    return 0;
 }
