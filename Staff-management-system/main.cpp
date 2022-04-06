@@ -2,6 +2,8 @@
 #include "workerMgr.h"
 #include "worker.h"
 #include "employee.h"
+#include "manager.h"
+#include "boss.h"
 
 using namespace std;
 
@@ -18,9 +20,18 @@ int main() {
                 return 0;
             case 1: {
                 cout << "Ôö¼Ó" << endl;
-                Worker *worker = NULL;
+                Worker *worker;
                 worker = new Employee(1, "Jack", 2);
                 worker->showInfo();
+                delete worker;
+
+                worker = new Manager(2, "Dany", 3);
+                worker->showInfo();
+                delete worker;
+
+                worker = new Boss(3, "Marine", 4);
+                worker->showInfo();
+                delete worker;
                 break;
             }
             case 2:
@@ -47,5 +58,4 @@ int main() {
                 break;
         }
     }
-    return 0;
 }

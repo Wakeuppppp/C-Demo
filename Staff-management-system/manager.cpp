@@ -24,7 +24,7 @@ Manager::Manager(int id, string name, int dId) {
 }
 
 void Manager::showInfo() {
-    cout << "Id:" << this->m_Id << "Name:" << this->m_Name << "部门:" << this->getDeptName() << endl;
+    cout << "Id:" << this->m_Id << "\tName:" << this->m_Name << "\t部门:" << this->getDeptName() << endl;
 }
 
 string Manager::getDeptName() {
