@@ -4,6 +4,8 @@
 #include "employee.h"
 #include "manager.h"
 #include "boss.h"
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -20,36 +22,44 @@ void start() {
                 return;
             case 1: {
                 wm.add_Emp();
+                system("pause");
                 break;
             }
             case 2:
-                cout << "ÏÔÊ¾" << endl;
+                wm.show_Emp();
+                system("pause");
                 break;
             case 3:
-                cout << "É¾³ý" << endl;
+                wm.del_Emp();
+                system("pause");
                 break;
             case 4:
-                cout << "ÐÞ¸Ä" << endl;
+                wm.modify();
+                system("pause");
                 break;
             case 5:
-                cout << "²éÕÒ" << endl;
+                wm.search();
+                system("pause");
                 break;
             case 6:
-                cout << "ÅÅÐò" << endl;
+                wm.sort_Emp();
+                system("pause");
                 break;
             case 7:
-                cout << "Çå¿Õ" << endl;
+                wm.clean_File();
+                system("pause");
                 break;
             default:
                 cout << "ÊäÈë´íÎó, ÇëÖØÐÂÊäÈë" << endl;
-                system("cls");
                 break;
         }
     }
 }
 
+
 int main() {
     start();
-
     return 0;
 }
+
+
