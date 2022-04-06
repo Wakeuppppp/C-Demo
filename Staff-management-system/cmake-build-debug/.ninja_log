@@ -1,0 +1,13 @@
+# ninja log v5
+2	1831	6709245368873068	CMakeFiles/TestProject.dir/main.cpp.obj	dc7dccd6e682359f
+419	2249	6709245372829031	CMakeFiles/TestProject.dir/employee.cpp.obj	c9eda1f4452e08de
+2424	3017	6709245381359303	TestProject.exe	da7e0d48c727db5a
+234	2113	6709245371610010	CMakeFiles/TestProject.dir/workerMgr.cpp.obj	ea825152ccf2c180
+674	2380	6709245374212330	CMakeFiles/TestProject.dir/boss.cpp.obj	8612d304efe7546e
+946	2424	6709245375471178	CMakeFiles/TestProject.dir/manager.cpp.obj	9691fa774f378e96
+3	1725	6709248923330545	CMakeFiles/TestProject.dir/main.cpp.obj	c0f6a05e3aa13020
+165	1870	6709248924820148	CMakeFiles/TestProject.dir/workerMgr.cpp.obj	d24d97e109ed93f4
+348	1998	6709248926192543	CMakeFiles/TestProject.dir/manager.cpp.obj	a5e86963591948aa
+618	2125	6709248927481205	CMakeFiles/TestProject.dir/employee.cpp.obj	2430fcd0438196c9
+900	2169	6709248928514586	CMakeFiles/TestProject.dir/boss.cpp.obj	d09b1fcac08e8a77
+2170	2772	6709248934431146	TestProject.exe	da7e0d48c727db5a
