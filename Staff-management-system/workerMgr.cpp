@@ -44,6 +44,7 @@ WorkerMgr::WorkerMgr() {
         ifs.close();
         return;
     }
+    ifs.putback(ch);
     string str;
     int n = 0;
     while (getline(ifs, str, '\n')) {
