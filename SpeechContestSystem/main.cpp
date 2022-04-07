@@ -4,9 +4,9 @@
 using namespace std;
 
 void menu() {
-    SpeechMgr sm;
     int choice;
     while (true) {
+        SpeechMgr sm;
         sm.showMenu();
         cout << "ÇëÑ¡Ôñ:";
         cin >> choice;
@@ -20,11 +20,11 @@ void menu() {
                 break;
             }
             case 2:
-//                sm.show_Emp();
+                sm.showRecord();
                 system("pause");
                 break;
             case 3:
-//                sm.del_Emp();
+                sm.clean_File();
                 system("pause");
                 break;
             default:
@@ -35,6 +35,9 @@ void menu() {
 }
 
 int main() {
+
+
     menu();
+
     return 0;
 }

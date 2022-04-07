@@ -35,11 +35,23 @@ public:
 
     void speechContest(); // 比赛
 
-    int index; // 比赛轮次
+    void showScore(); // 显示分数
+
+    void saveRecord(); // 保存记录到本地
+
+    void loadRecord(); // 读取本地记录
+
+    void showRecord(); // 显示记录
+
+    void clean_File(); // 清空记录
+
+    bool fileEmpty;
+    int m_Index; // 比赛轮次
     vector<int> v1; // 第一轮12人
     vector<int> v2; // 第二轮6人
     vector<int> Victory; // 前三名
     map<int, Speaker> m_Speaker; // 存放编号、选手
+    map<int, vector<string>> m_Record; // 往届记录
 };
 
 
