@@ -1,11 +1,5 @@
 #include <iostream>
 #include "workerMgr.h"
-#include "worker.h"
-#include "employee.h"
-#include "manager.h"
-#include "boss.h"
-#include <iostream>
-#include <fstream>
 
 using namespace std;
 
