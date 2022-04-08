@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8aed82-6ed4-461f-bf24-1ce6c7367876" name="变更" comment="initial">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpeechContestSystem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeechContestSystem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-426e5cdf3c49cca0e628.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-06T12-03-46-0683.json" beforeDir="false" />
@@ -81,11 +82,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Reservation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Reservation" TARGET_NAME="Reservation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Reservation" RUN_TARGET_NAME="Reservation">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -105,6 +101,7 @@
       <workItem from="1649343144949" duration="190000" />
       <workItem from="1649343349508" duration="2436000" />
       <workItem from="1649391026839" duration="22366000" />
+      <workItem from="1649420390832" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1649316537304</created>
