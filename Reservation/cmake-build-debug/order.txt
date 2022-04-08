@@ -1,0 +1,7 @@
+date:2 interval:1 stuId:10001 stuName:Jack roomId:2 status:2
+date:3 interval:2 stuId:10001 stuName:Jack roomId:1 status:2
+date:3 interval:1 stuId:10001 stuName:Jack roomId:2 status:-1
+date:2 interval:2 stuId:10003 stuName:Lucy roomId:3 status:-1
+date:1 interval:2 stuId:10003 stuName:Lucy roomId:2 status:0
+date:5 interval:2 stuId:10003 stuName:Lucy roomId:3 status:0
+date:4 interval:2 stuId:10003 stuName:Lucy roomId:3 status:-1
