@@ -12,40 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8aed82-6ed4-461f-bf24-1ce6c7367876" name="变更" comment="initial">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/admin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/computerRoom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/order.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/student.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/teacher.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computerRoom.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/globalFile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orderFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orderFile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-07T12-59-00-0358.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ece5d9810d778dfa2fbb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-421e93284dafa2da5ac8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-07T07-22-21-0174.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Reservation-Debug-95a545ac4b16435c3365.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reservation.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reservation.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Reservation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Reservation.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpeechContestSystem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeechContestSystem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-426e5cdf3c49cca0e628.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-06T12-03-46-0683.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-07T12-58-11-0370.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.cmake/api/v1/reply/target-TestProject-Debug-c4700563053deee5dc2c.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/CMakeFiles/TestProject.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/CMakeFiles/TestProject.dir/main.cpp.obj" afterDir="false" />
@@ -53,6 +24,8 @@
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/CMakeFiles/TestProject.dir/workerMgr.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/CMakeFiles/TestProject.dir/workerMgr.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/TestProject.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/TestProject.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Staff-management-system/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Staff-management-system/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Staff-management-system/test.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +104,7 @@
       <workItem from="1649334778531" duration="5472000" />
       <workItem from="1649343144949" duration="190000" />
       <workItem from="1649343349508" duration="2436000" />
-      <workItem from="1649391026839" duration="22290000" />
+      <workItem from="1649391026839" duration="22366000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1649316537304</created>
